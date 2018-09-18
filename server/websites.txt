@@ -1,0 +1,8 @@
+dailymail.co.uk
+huffingtonpost.co.uk
+theguardian.com
+cnn.com
+metro.co.uk
+telegraph.co.uk
+independent.co.uk
+thetimes.co.uk
